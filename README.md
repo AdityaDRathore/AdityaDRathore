@@ -15,4 +15,4 @@
 * Open-source enthusiast. Would love to collaborate on something interesting. Drop me an email at [my mail](#adityarathore7067@gmail.com).
 
 <br>
-[GitHub Profile Views](https://github-readme-stats.vercel.app/api?username=AdityaDRathore&show_icons=true&theme=radical)   
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adityadrathore&label=Profile%20views&color=0e75b6&style=flat" alt="adityadrathore" /> </p>
