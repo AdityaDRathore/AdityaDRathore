@@ -12,7 +12,7 @@
 
 * Primarily working on: C++ (14/17/20+), Python, ML Inference Operators,TensorFlow, PyTorch, GraphQL, ML, NN, and Algorithmic Problem Solving.
 * Loves to explore the efficient backend architecture & system design.
-* Open-source enthusiast. Would love to collaborate on something interesting. Drop me an email at [my mail](#adityarathore7067@gmail.com).
+* Would love to collaborate on something interesting. Drop me an email at [my mail](#adityarathore7067@gmail.com).
 
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityadrathore&label=Profile%20views&color=0e75b6&style=flat" alt="adityadrathore" /> </p>
