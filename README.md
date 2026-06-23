@@ -6,7 +6,7 @@
 
 
 
-<p>Previously, I worked as a Intern at <b>Orins Lab</b> at <b>IIT Bombay</b>, where my work involved building and deploying functional Retrieval-Augmented Generation (RAG) applications. I also served as a <b>Team Lead</b> for the <b>Ministry of Education, Madhya Pradesh</b>, developing a secure lab booking application for Govt. universities and schools across Madhya Pradesh,</p>
+<p>Previously, I worked as a Intern at <b>Orins Lab</b> at <b>IIT Bombay</b>, where my work involved building and deploying functional Retrieval-Augmented Generation (RAG) applications. I also served as a <b>Lead Developer</b> for the <b>Ministry of Education, Madhya Pradesh</b>, developing a secure lab booking application for Govt. universities and schools across Madhya Pradesh,</p>
 
 **My happenings:**
 
